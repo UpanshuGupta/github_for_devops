@@ -12,3 +12,18 @@
   16 git restore testing.py                                                                                              
   17 git status                                                                                                          
   18 history  
+  19 history                                                                                                             
+  20 git status                                                                                                          
+  21 git add                                                                                                             
+  22 git add git_commands.txt                                                                                            
+  23 git status                                                                                                          
+  24 git commit -m "added git commands"                                                                                  
+  25 git status                                                                                                          
+  26 clear                                                                                                               
+  27 git --uname                                                                                                         
+  28 clear                                                                                                               
+  29 git remote add origin https://github.com/UpanshuGupta/github_for_devops.git                                         
+  30 git remote -v                                                                                                       
+  31 git push origin master                                                                                              
+  32 git remote -v                                                                                                       
+  33 clear             
